@@ -3,7 +3,7 @@ package gittest3;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Igor");
+		System.out.println("Svyatoslav");
 	}
 
 }
